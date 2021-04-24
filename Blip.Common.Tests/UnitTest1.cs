@@ -9,7 +9,7 @@ namespace Blip.Common.Tests
         [TestMethod]
         public void TestMethod1()
         {
-            // Do nothing because of X and Y.
+            // Este esta vacio porque es una prueba
         }
     }
 }

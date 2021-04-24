@@ -9,6 +9,7 @@ namespace Blip.Data.Test
         [TestMethod]
         public void TestMethod1()
         {
+            //Este metodo esta vacio porque asi esta programado
         }
     }
 }
